@@ -1,0 +1,46 @@
+[11-Dec-2019 15:15:25 UTC] PHP Warning:  include(/Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-content/plugins/fs-custom-blocks/blocks/book-details/index.php): failed to open stream: No such file or directory in /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-content/plugins/fs-custom-blocks/fs-custom-blocks.php on line 39
+[11-Dec-2019 15:15:25 UTC] PHP Stack trace:
+[11-Dec-2019 15:15:25 UTC] PHP   1. {main}() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/index.php:0
+[11-Dec-2019 15:15:25 UTC] PHP   2. require() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/index.php:17
+[11-Dec-2019 15:15:25 UTC] PHP   3. require_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-blog-header.php:13
+[11-Dec-2019 15:15:25 UTC] PHP   4. require_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-load.php:37
+[11-Dec-2019 15:15:25 UTC] PHP   5. require_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-config.php:77
+[11-Dec-2019 15:15:25 UTC] PHP   6. include_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-settings.php:360
+[11-Dec-2019 15:15:25 UTC] PHP Warning:  include(): Failed opening '/Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-content/plugins/fs-custom-blocks/blocks/book-details/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-content/plugins/fs-custom-blocks/fs-custom-blocks.php on line 39
+[11-Dec-2019 15:15:25 UTC] PHP Stack trace:
+[11-Dec-2019 15:15:25 UTC] PHP   1. {main}() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/index.php:0
+[11-Dec-2019 15:15:25 UTC] PHP   2. require() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/index.php:17
+[11-Dec-2019 15:15:25 UTC] PHP   3. require_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-blog-header.php:13
+[11-Dec-2019 15:15:25 UTC] PHP   4. require_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-load.php:37
+[11-Dec-2019 15:15:25 UTC] PHP   5. require_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-config.php:77
+[11-Dec-2019 15:15:25 UTC] PHP   6. include_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-settings.php:360
+[11-Dec-2019 15:15:27 UTC] PHP Warning:  include(/Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-content/plugins/fs-custom-blocks/blocks/book-details/index.php): failed to open stream: No such file or directory in /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-content/plugins/fs-custom-blocks/fs-custom-blocks.php on line 39
+[11-Dec-2019 15:15:27 UTC] PHP Stack trace:
+[11-Dec-2019 15:15:27 UTC] PHP   1. {main}() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-admin/admin-ajax.php:0
+[11-Dec-2019 15:15:27 UTC] PHP   2. require_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-admin/admin-ajax.php:22
+[11-Dec-2019 15:15:27 UTC] PHP   3. require_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-load.php:37
+[11-Dec-2019 15:15:27 UTC] PHP   4. require_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-config.php:77
+[11-Dec-2019 15:15:27 UTC] PHP   5. include_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-settings.php:360
+[11-Dec-2019 15:15:27 UTC] PHP Warning:  include(): Failed opening '/Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-content/plugins/fs-custom-blocks/blocks/book-details/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-content/plugins/fs-custom-blocks/fs-custom-blocks.php on line 39
+[11-Dec-2019 15:15:27 UTC] PHP Stack trace:
+[11-Dec-2019 15:15:27 UTC] PHP   1. {main}() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-admin/admin-ajax.php:0
+[11-Dec-2019 15:15:27 UTC] PHP   2. require_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-admin/admin-ajax.php:22
+[11-Dec-2019 15:15:27 UTC] PHP   3. require_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-load.php:37
+[11-Dec-2019 15:15:27 UTC] PHP   4. require_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-config.php:77
+[11-Dec-2019 15:15:27 UTC] PHP   5. include_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-settings.php:360
+[11-Dec-2019 15:15:27 UTC] PHP Warning:  include(/Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-content/plugins/fs-custom-blocks/blocks/book-details/index.php): failed to open stream: No such file or directory in /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-content/plugins/fs-custom-blocks/fs-custom-blocks.php on line 39
+[11-Dec-2019 15:15:27 UTC] PHP Stack trace:
+[11-Dec-2019 15:15:27 UTC] PHP   1. {main}() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/index.php:0
+[11-Dec-2019 15:15:27 UTC] PHP   2. require() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/index.php:17
+[11-Dec-2019 15:15:27 UTC] PHP   3. require_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-blog-header.php:13
+[11-Dec-2019 15:15:27 UTC] PHP   4. require_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-load.php:37
+[11-Dec-2019 15:15:27 UTC] PHP   5. require_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-config.php:77
+[11-Dec-2019 15:15:27 UTC] PHP   6. include_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-settings.php:360
+[11-Dec-2019 15:15:27 UTC] PHP Warning:  include(): Failed opening '/Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-content/plugins/fs-custom-blocks/blocks/book-details/index.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-content/plugins/fs-custom-blocks/fs-custom-blocks.php on line 39
+[11-Dec-2019 15:15:27 UTC] PHP Stack trace:
+[11-Dec-2019 15:15:27 UTC] PHP   1. {main}() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/index.php:0
+[11-Dec-2019 15:15:27 UTC] PHP   2. require() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/index.php:17
+[11-Dec-2019 15:15:27 UTC] PHP   3. require_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-blog-header.php:13
+[11-Dec-2019 15:15:27 UTC] PHP   4. require_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-load.php:37
+[11-Dec-2019 15:15:27 UTC] PHP   5. require_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-config.php:77
+[11-Dec-2019 15:15:27 UTC] PHP   6. include_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-settings.php:360
