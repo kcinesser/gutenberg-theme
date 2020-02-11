@@ -44,3 +44,12 @@
 [11-Dec-2019 15:15:27 UTC] PHP   4. require_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-load.php:37
 [11-Dec-2019 15:15:27 UTC] PHP   5. require_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-config.php:77
 [11-Dec-2019 15:15:27 UTC] PHP   6. include_once() /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-settings.php:360
+[16-Jan-2020 15:40:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Adv_Gutenberg_Courses\Example_Blocks\_get_plugin_url() in /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-content/plugins/advanced-gutenberg-course-master/lib/register-scripts.php:21
+Stack trace:
+#0 /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-includes/class-wp-hook.php(288): Adv_Gutenberg_Courses\Example_Blocks\register_block_assets('')
+#1 /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-settings.php(523): do_action('init')
+#4 /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-config.php(77): require_once('/Users/nicolas....')
+#5 /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-load.php(37): require_once('/Users/nicolas....')
+#6 /Users/nicolas.esser/Sit in /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-content/plugins/advanced-gutenberg-course-master/lib/register-scripts.php on line 21
