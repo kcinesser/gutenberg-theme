@@ -53,3 +53,4 @@ Stack trace:
 #4 /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-config.php(77): require_once('/Users/nicolas....')
 #5 /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-load.php(37): require_once('/Users/nicolas....')
 #6 /Users/nicolas.esser/Sit in /Users/nicolas.esser/Sites/nicks-playground-two/app/public/wp-content/plugins/advanced-gutenberg-course-master/lib/register-scripts.php on line 21
+[11-Feb-2020 22:41:30 UTC] $db_save_err: 1
